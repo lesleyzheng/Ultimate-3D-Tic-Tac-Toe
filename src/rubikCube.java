@@ -1,22 +1,16 @@
+package src;
+
 import javafx.application.Application;
-import javafx.collections.ObservableList;
 import javafx.scene.Group;
-import javafx.scene.Node;
 import javafx.scene.PerspectiveCamera;
 import javafx.scene.Scene;
 import javafx.scene.SceneAntialiasing;
-import javafx.scene.transform.NonInvertibleTransformException;
-import javafx.scene.transform.Rotate;
-import javafx.scene.transform.Transform;
-import javafx.stage.Stage; 
-import javafx.geometry.Point3D;
-import javafx.scene.control.Button; 
+import javafx.stage.Stage;
+import javafx.scene.control.Button;
 import javafx.scene.input.MouseEvent;
-import javafx.scene.paint.PhongMaterial;
-import javafx.event.EventHandler; 
+import javafx.event.EventHandler;
 import javafx.util.Duration; 
 import javafx.animation.Timeline;
-import javafx.scene.image.Image; 
 import javafx.animation.KeyFrame;
 import javafx.animation.KeyValue;
 

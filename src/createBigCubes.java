@@ -1,9 +1,12 @@
-import java.util.ArrayList;
+package src;
+
 import javafx.scene.paint.Color;
 import javafx.scene.paint.PhongMaterial;
 import javafx.scene.shape.Box;
 import javafx.scene.transform.Rotate;
 import javafx.scene.transform.Translate;
+
+import java.util.ArrayList;
 
 class createBigCubes{
 	
