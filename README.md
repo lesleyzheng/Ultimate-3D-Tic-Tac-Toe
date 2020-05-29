@@ -2,7 +2,9 @@
 
 Have you heard of [ultimate tic tac toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe)? Well this version of the game is even cooler... It is a 3D version of ultimate tic tac toe. The current MVP focuses on the visual part of the game.
 
-![Demo](ultimate-3d-tictactoe-demo-video.mov)
+<video width="320" height="240" controls>
+  <source src="ultimate-3d-tictactoe-demo-video.mov" type="video/mp4">
+</video>
 
 ![Static Demo](ultimate-3d-tictactoe-photo.png)
 
